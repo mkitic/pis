@@ -9,6 +9,7 @@ namespace vj1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Neki tekst");
         }
     }
 }
